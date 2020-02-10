@@ -29,3 +29,16 @@ I am a person who constantly needs new knowledge, and  literally interested in e
 > [MouseScroll](https://htmlweb.ru/java/example/mouse_wheel.php)
 
 ---
+
+### Experience
+I have no work-experience in programming, but i have desire to get it.
+
+---
+
+### Education 
+I'm in my third year at the ISEI of BSU at the Faculty of environmental monitoring. I am a future specialist in the field of information systems and technologies in healthcare. Qualification: engineer-programmer.  
+
+---
+
+### English Level
+Low-Upper Intermediate (B1-B2), and I practice my English skills daily.
