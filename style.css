@@ -1,0 +1,154 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #eaeaea;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    color: #0f0f0f;
+    background-color: #caf8eab9;
+}
+
+.cv-photo img {
+    margin: 80px 0;
+}
+
+.cv-info {
+    margin: 50px 30px 50px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    color: #ababab;
+    background-color: #fac4bc;
+}
+
+.cv-photo img {
+    margin: 80px 0;
+}
+
+.cv-info {
+    margin: 50px 30px 50px;
+}
+
+.heading {
+    margin: 0;
+    padding-bottom: 16px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.hl {
+    font-size: 16px;
+    color: #fff;
+    
+}
+
+.cv-text {
+    margin-bottom: 30px;
+    font-size: 16px;
+    line-height: 24px;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1.5px;
+}
+.contacts-heading {
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+}
+i {
+    padding-right: 8px;
+}
+
+.contacts-text {
+    font-weight:900;
+    padding-left: 25px;
+    font-size: 15px;
+    font-weight: 300;
+    color: #ababab;
+    text-decoration: none;
+}
+
+.contacts-text:hover {
+    color: #fff;
+}
+
+.main {
+    
+    margin-left: auto;
+  margin-right: auto;
+    max-width: 1024px;
+    padding: 25px;
+    background-color: #ffffff;
+}
+
+.cv-wr {
+    min-height: 100%;
+    padding: 40px 40px;
+    border: 1px solid #a8a8a8;
+}
+
+.cv-wr a {
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+}
+
+.heading-ind {
+    margin-bottom: 40px;
+}
+
+.heading-ind:last-child {
+    margin-bottom: 0;
+}
+
+.hd {
+    font-size: 16px;
+    font-weight: 600;
+    border-bottom: 1px solid #c7c7c7;
+}
+
+.footer {
+    max-width: 1024;
+    margin-left: auto;
+    margin-right: auto;
+    text-align:center;
+    background: #faeefb;
+}
+
+.about {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+}
+
+.about-contacts {
+    font-size: 14px;
+}
+
+.about-contacts__link {
+    padding: 0 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.about-contacts__link:hover {
+    color: #fff;
+}
