@@ -1,0 +1,32 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+*, *::after, *::before {
+    box-sizing: inherit;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #eaeaea;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    color: #ababab;
+    background-color: #313131;
+}
+
+.cv-photo img {
+    margin: 80px 0;
+}
+
+.cv-info {
+    margin: 50px 30px 50px;
+}
